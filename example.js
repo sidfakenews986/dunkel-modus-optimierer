@@ -1,10 +1,10 @@
 import { optimieren } from 'dunkel-modus-optimierer';
 
-const deinFarbschema = {
-    hintergrund: '#FFFFFF',
+const colorScheme = {
+    background: '#FFFFFF',
     text: '#000000',
-    akzent: '#FF4081'
+    accent: '#FF4081'
 };
 
-const neuesDesign = optimieren(deinFarbschema);
-console.log(neuesDesign);
+const newDesign = optimieren(colorScheme);
+console.log(newDesign);

@@ -1,0 +1,12 @@
+{
+  "name": "dunkel-modus-optimierer",
+  "version": "1.0.0",
+  "description": "Ein Tool zur Optimierung von Webanwendungen im Dunkelmodus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dein Name",
+  "license": "MIT",
+  "dependencies": {}
+}
